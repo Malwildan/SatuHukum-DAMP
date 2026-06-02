@@ -4,7 +4,7 @@ SatuHukum DAMP adalah prototipe aplikasi React untuk pengalaman pencarian dan pe
 
 Saat ini proyek masih berupa demo frontend-only yang menggunakan data mock lokal di `src/app/data/mockData.ts`. Aplikasi belum terhubung ke backend API, sehingga hasil pencarian, isi dokumen, kategori, dan data awal dokumen tersimpan berasal dari data contoh yang sudah dibundel di dalam proyek.
 
-Referensi desain awal: https://www.figma.com/design/nR09DyYGU5I6ar9gKUGXG5/SatuHukum---DAMP?node-id=1-2&t=V1bBcIVHatb4CnKE-1
+Referensi desain awal: https://www.figma.com/design/nR09DyYGU5I6ar9gKUGXG5/
 
 ## Fitur
 
